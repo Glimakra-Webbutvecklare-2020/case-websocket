@@ -6,6 +6,7 @@ I detta caset ska ni arbeta individuellt. Ni kan välja mellan fyra olika scenar
 3. En colaborativ online paint
 4. Valfri projekt med websocket
 
+Ni lämnar in genom en **länk till er publicerade applikation**.
 
 # Krav
 
