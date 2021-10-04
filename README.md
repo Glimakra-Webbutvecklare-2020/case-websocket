@@ -1,5 +1,7 @@
 # Case Websocket
-I detta caset ska ni arbeta individuellt. Ni kan välja mellan fyra olika scenario:
+I detta caset kan ni arbeta individuellt eller i par. Om du vill arbeta med caset tillsammans med en någon är det möjligt. Då kan ni ha olika fokus på server- eller klientsidan. Individuell dokumentation via Git-commits ska finnas från de som ingår i projektet.
+
+Ni kan välja mellan fyra olika scenario:
 
 1. Ett multiplayer canvas spel
 2. En realtid chatt
@@ -37,6 +39,6 @@ Veckan efter presentation kommer feedback ges under följande rubriker:
 *Designfeedback tillkommer eventuellt från Mattias*
 
 # Presentation- och Inlämningsdatum
-Enligt planering hålls presentation av caset under vecka 36 och tid för feedback justering vecka 37. 
+Enligt planering hålls presentation av caset under vecka 40 och tid för feedback justering vecka 43. 
 - Preliminärt datum för presentation är **2021-10-28, Torsdag kl. 14.45.**
 - Preliminärt datum för caseinlämning är **2021-11-07, Söndag kl. 23.59.**
